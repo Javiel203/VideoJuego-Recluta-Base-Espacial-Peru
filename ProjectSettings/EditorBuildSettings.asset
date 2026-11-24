@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 3c5757bbe0421fb4ab63b0d2915e4994
+  - enabled: 1
+    path: Assets/Scenes/Historia.unity
+    guid: bf897878a26edb444a48e8ee0021419c
+  - enabled: 1
+    path: Assets/Scenes/CharacterSelect.unity
+    guid: 9d1f08bfc05a6dc4e9c83fb1ce9661c5
+  - enabled: 1
+    path: Assets/Scenes/Instructions.unity
+    guid: 6684aa7af17b7e6469d802b7725b6a1b
+  - enabled: 1
+    path: Assets/Scenes/Under.unity
+    guid: 1173c82f9baa5e44e9165e5de5ec8c8a
+  - enabled: 1
+    path: Assets/Scenes/Through.unity
+    guid: 0183d34d717f78247bfd03435f8841ef
+  - enabled: 1
+    path: Assets/Scenes/Over.unity
+    guid: 25241d1027f1a4a4f8c44b8a6318078f
+  - enabled: 1
+    path: Assets/Scenes/PruebaMemoriaEspacial.unity
+    guid: 1e481b22f3bb6984389a883085139a46
+  - enabled: 1
+    path: Assets/Scenes/DefensaEspacial.unity
+    guid: dfd3332d8f16ac84eb930fb74aa30e88
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+  m_UseUCBPForAssetBundles: 0

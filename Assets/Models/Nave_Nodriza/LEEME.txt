@@ -1,0 +1,1 @@
+CF-782 | Modelo procedural original. Z hacia delante, Y arriba. OBJ y MTL juntos en Assets; GLB requiere importador glTF. GLB piezas contiene componentes separados; GLB normal agrupa por material. Materiales PBR sin mapas de textura. Configurar Bloom y partículas de escape en Unity. Vista JPG de la geometría real. No es reconstrucción exacta del concepto.
